@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/MyProgramStuff/Spigot" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/MyProgramStuff/Spigot" />
+          <root url="file://C:/MyProgramStuff/Spigot/Bukkit/src/main/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/Bukkit/src/main/javadoc" />
+          <root url="file://C:/MyProgramStuff/Spigot/Bukkit/src/test/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/CraftBukkit/src/main/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/CraftBukkit/src/test/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/Spigot/Spigot-API/src/main/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/Spigot/Spigot-API/src/main/javadoc" />
+          <root url="file://C:/MyProgramStuff/Spigot/Spigot/Spigot-API/src/test/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/Spigot/Spigot-Server/src/main/java" />
+          <root url="file://C:/MyProgramStuff/Spigot/Spigot/Spigot-Server/src/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://C:/MyProgramStuff/Spigot" recursive="false" />
+        <jarDirectory url="file://C:/MyProgramStuff/Spigot" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
