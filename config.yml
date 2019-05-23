@@ -1,0 +1,12 @@
+--- 
+OreGenThousandths: 
+  DIAMOND_ORE: 10
+  EMERALD_ORE: 1
+  IRON_ORE: 50
+  LAPIS_ORE: 15
+  REDSTONE_ORE: 20
+  STONE: 904
+Worlds: 
+  - world
+  - world_the_nether
+  - world_the_end

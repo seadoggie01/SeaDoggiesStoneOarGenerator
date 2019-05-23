@@ -1,0 +1,5 @@
+name: StoneOarGenerator
+version: 1.0.0.0
+author: Seadoggie
+main: com.seadoggie.stoneoargenerator.StoneOarGen
+api-version: 1.13
